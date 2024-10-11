@@ -1,0 +1,3 @@
+A Project carried out and executed by Group 3 members of SAIL Innovation Lab. of Data Science (Cohort 2) on the detailed location of Zenith Bank branches spread across different location, strategic towns in Lagos state based on demands and operational daily activity of residents and inhabitants.
+This project entails a need assesement and features of the Financial Institution in context as it assist the stakeholders and Data Sciencist to make informed decisions for further evaluation.
+Names of group members who carried out the geocoding assesment are: Peter Femi, Akinyemi Shuaib, Confidence Ojiaku, Peace Oluwatayo, Adebisi Muhammad, Ezekeil Babawale
